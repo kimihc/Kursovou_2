@@ -1,3 +1,0 @@
-Администратор admin admin
-Пользователь user user
-Сотрудник empl empl
